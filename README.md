@@ -1,2 +1,2 @@
-# cephas-portfolio
+# Cephas-Omondi-portfolio
 My Portfolio
