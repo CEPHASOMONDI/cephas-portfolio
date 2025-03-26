@@ -60,3 +60,10 @@ button {
     border: none;
     cursor: pointer;
 }
+
+
+footer {
+    background: #333;
+    color: white;
+    padding: 1em;
+}
