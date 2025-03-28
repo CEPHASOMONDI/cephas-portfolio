@@ -17,8 +17,8 @@ header {
     .logo {
         width: 150px;  /* Set width */
         height: auto;  /* Maintain aspect ratio */
-        image: url(Images/PASSPORT\ PHOTO.jpg);
-    }    
+        border-image: round;
+    }   mask-image: url(Images/PASSPORT\ PHOTO.jpg);
 }
 nav ul {
     list-style: none;
