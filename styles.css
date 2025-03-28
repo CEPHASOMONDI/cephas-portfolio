@@ -13,13 +13,11 @@ header {
     padding: 1em;
     shape-margin: 0cm;
 }
-#nav{
-    .logo {
+.logo {
         width: 150px;  /* Set width */
         height: auto;  /* Maintain aspect ratio */
         border-image: round;
-    }   mask-image: url(Images/logo.jpg);
-}
+}       mask-image: url(Images/logo.jpg);
 nav ul {
     list-style: none;
     padding: 0.01;
