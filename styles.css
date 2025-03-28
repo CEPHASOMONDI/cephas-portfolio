@@ -9,12 +9,17 @@ body {
 
 header {
     background: #333;
-    image: url(Images/PASSPORT\ PHOTO.jpg);
     color: white;
     padding: 1em;
     shape-margin: 0cm;
 }
-
+#nav{
+    .logo {
+        width: 150px;  /* Set width */
+        height: auto;  /* Maintain aspect ratio */
+        image: url(Images/PASSPORT\ PHOTO.jpg);
+    }    
+}
 nav ul {
     list-style: none;
     padding: 0.01;
